@@ -2,20 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc629da8-d828-4e1e-a9e3-2212e53df532" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPrinciple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/META-INF/DesignPrinciple.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_01_openClosePrinciple/ICourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_01_openClosePrinciple/JavaCource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_01_openClosePrinciple/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/JavaCource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/JavaDiscountCource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_02_dependenceInversionPrinciple/IStudyCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_02_dependenceInversionPrinciple/JavaScriptCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_02_dependenceInversionPrinciple/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_02_dependenceInversionPrinciple/Man.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_02_dependenceInversionPrinciple/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_02_dependenceInversionPrinciple/PhythonCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_03_singleResponsibilityPrinciple/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_04_interfaceSegretionPrinciple/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_05_demeterPrinciple/Boss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_05_demeterPrinciple/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_05_demeterPrinciple/TeamLeader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/IStudyCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/JavaScriptCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/PhythonCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_03_singleResponsibilityPrinciple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_04_interfaceSegretionPrinciple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_05_demeterPrinciple/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_05_demeterPrinciple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_05_demeterPrinciple/TeamLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/AbstractGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/HandGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/MachineGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/Solider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_01_openClosePrinciple/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciple/com/sww/_01_openClosePrinciple/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,49 +44,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/Solider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/ICourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/JavaDiscountCource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="114">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/JavaCource.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/AbstractGun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-76">
-              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            <state relative-caret-position="114">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/HandGun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/MachineGun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+              <folding>
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,6 +126,25 @@
         <option value="$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/ICourse.java" />
         <option value="$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/JavaDiscountCource.java" />
         <option value="$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/IStudyCourse.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Phython.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Man.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/JavaScriptCourse.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/PhythonCourse.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/com/sww/_03_singleResponsibilityPrinciple/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_03_singleResponsibilityPrinciple/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_04_interfaceSegretionPrinciple/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_05_demeterPrinciple/Boss.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_05_demeterPrinciple/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_05_demeterPrinciple/TeamLeader.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/IGun.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/MachineGun.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/HandGun.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/Solider.java" />
       </list>
     </option>
   </component>
@@ -118,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -129,7 +173,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +189,14 @@
               <item name="DesignPrinciple" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPrinciple" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_01_openClosePrinciple" type="462c0819:PsiDirectoryNode" />
+              <item name="sww" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPrinciple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPrinciple" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sww" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_LisSubstitutionPrinciple" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sww._01_openClosePrinciple.Main" />
       <module name="DesignPrinciple" />
@@ -190,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sww._02Principle.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sww._03_singleResponsibilityPrinciple.Main" />
       <module name="DesignPrinciple" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sww._02Principle.*" />
+          <option name="PATTERN" value="com.sww._03_singleResponsibilityPrinciple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +253,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sww._02principle.MainTest" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sww._05_demeterPrinciple.Main" />
       <module name="DesignPrinciple" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sww._02principle.*" />
+          <option name="PATTERN" value="com.sww._05_demeterPrinciple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sww._06_LisSubstitutionPrinciple.Main" />
+      <module name="DesignPrinciple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sww._06_LisSubstitutionPrinciple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sww._02_dependenceInversionPrinciple.Main" />
+      <module name="DesignPrinciple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sww._02_dependenceInversionPrinciple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainTest" />
-        <item itemvalue="Application.TestMain" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -263,17 +339,18 @@
       <option name="presentableId" value="Default" />
       <updated>1560651129618</updated>
       <workItem from="1560655033043" duration="3775000" />
+      <workItem from="1560677670980" duration="3792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3775000" />
+    <option name="totallyTimeSpent" value="13105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23927614" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24262735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -282,14 +359,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2592068" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3838527" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38243628" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.61898017" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.5084227" />
       <window_info active="true" anchor="bottom" id="Thumbnails" order="11" visible="true" weight="0.24893919" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -308,6 +385,46 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -360,30 +477,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/sww/_02Principle/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/com/sww/_02principle/TestMain.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sww/_02Principle/MainTest.java" />
-    <entry file="uml://JAVA/com.sww._01_openClosePrinciple">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.sww._01_openClosePrinciple</OriginalElement>
-          <nodes>
-            <node x="" y="">com.sww._01_openClosePrinciple.ICourse</node>
-            <node x="" y="">com.sww._01_openClosePrinciple.Main</node>
-            <node x="" y="">com.sww._01_openClosePrinciple.JavaCource</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="54.0" y="186.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Properties</Category>
-            <Category>Methods</Category>
-            <Category>Constructors</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/com.sww._01_openClosePrinciple.Main">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -394,7 +487,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="34.5" y="14.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="35.0" y="15.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -418,7 +511,7 @@
               <point x="0.0" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-273.5" y="84.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-273.0" y="85.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -436,7 +529,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="44.0" y="14.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="44.0" y="15.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -479,8 +572,213 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sww/_01_openClosePrinciple/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/IStudyCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/JavaScriptCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/PhythonCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_02_dependenceInversionPrinciple/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_03_singleResponsibilityPrinciple.java" />
+    <entry file="uml://JAVA/com.sww._01_openClosePrinciple">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.sww._01_openClosePrinciple</OriginalElement>
+          <nodes>
+            <node x="" y="">com.sww._01_openClosePrinciple.ICourse</node>
+            <node x="" y="">com.sww._01_openClosePrinciple.Main</node>
+            <node x="" y="">com.sww._01_openClosePrinciple.JavaDiscountCource</node>
+            <node x="" y="">com.sww._01_openClosePrinciple.JavaCource</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="137.0" y="267.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.sww._02_dependenceInversionPrinciple">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.sww._02_dependenceInversionPrinciple</OriginalElement>
+          <nodes>
+            <node x="" y="">com.sww._02_dependenceInversionPrinciple.IStudyCourse</node>
+            <node x="" y="">com.sww._02_dependenceInversionPrinciple.Man</node>
+            <node x="" y="">com.sww._02_dependenceInversionPrinciple.JavaScriptCourse</node>
+            <node x="" y="">com.sww._02_dependenceInversionPrinciple.Main</node>
+            <node x="" y="">com.sww._02_dependenceInversionPrinciple.Person</node>
+            <node x="" y="">com.sww._02_dependenceInversionPrinciple.PhythonCourse</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="147.0" y="128.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_05_demeterPrinciple/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_05_demeterPrinciple/TeamLeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_05_demeterPrinciple/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_04_interfaceSegretionPrinciple/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_03_singleResponsibilityPrinciple/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/MachineGun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/HandGun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/AbstractGun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sww/_06_LisSubstitutionPrinciple/Solider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
